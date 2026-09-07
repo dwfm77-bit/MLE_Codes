@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+scipy
+scikit-image
+rasterio
+tifffile
+seaborn
+tqdm
+joblib
+openpyxl
